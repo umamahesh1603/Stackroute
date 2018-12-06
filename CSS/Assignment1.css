@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    font-weight: normal;
+    margin-left: 300px;
+
+}
+
+
+blockquote {
+    border: 1px ridge;
+    text-align: center;
+    margin-left: 0px;
+}
